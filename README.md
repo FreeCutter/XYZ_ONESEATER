@@ -1,5 +1,7 @@
 # XYZ_ONESEATER
 
+![](https://github.com/FreeCutter/XYZ_ONESEATER/blob/master/OneSeater_Assembley.stl)
+
 ![](https://github.com/FreeCutter/XYZ_ONESEATER/blob/master/OneSeater_Assembley.png)
 
 This is using [FreeCAD](https://www.freecadweb.org). 
