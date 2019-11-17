@@ -1,8 +1,7 @@
 # XYZ_ONESEATER
 
-![](https://github.com/FreeCutter/XYZ_ONESEATER/blob/master/OneSeater_Assembley.stl)
-
-OneSeater_Assembley.stl
+![](https://github.com/FreeCutter/XYZ_ONESEATER/blob/master/OneSeater_Assembley.png)
+[OneSeater_Assembley.stl](https://github.com/FreeCutter/XYZ_ONESEATER/blob/master/OneSeater_Assembley.stl)
 
 The XYZ ONESEATER is a trike bicycle which frame and stearing components are mainly build out of 25mm square aluminium tubing. 
 
