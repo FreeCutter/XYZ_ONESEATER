@@ -4,24 +4,22 @@
 
 The XYZ ONESEATER is a trike bicycle which frame and stearing components are mainly build out of 25mm square aluminium tubing. 
 
-The original construction drawings for the XYZ ONESEATER might be downloaded [here](http://www.n55.dk/MANUALS/SPACEFRAMEVEHICLES/spaceframevehicles.html).
-Credits to [N55](http://www.n55.dk) and collaborator Till Wolfer.
+This is the Github repository providing the sources of the project as FreeCad-files (.FCStd) as well as the resulting technical drawings summarized in the pdf-document [OneSeater_Techdrawings](link).
 
-An appetizer for the vehicles in action could be found [here](http://www.youtube.com/watch?v=CPaBOMBIfKA) and [here](https://youtu.be/3dgY7bEmk1Q). Furthermore there is a quite vivid thread available on the German velomobilforum.de [here](https://www.velomobilforum.de/forum/index.php?threads/eigenbau-xyz-spaceframe-vehicle.33109/).
+The original construction drawings for the XYZ ONESEATER might be downloaded [here](http://www.n55.dk/MANUALS/SPACEFRAMEVEHICLES/spaceframevehicles.html). Credits to [N55](http://www.n55.dk) and collaborator Till Wolfer.
 
-Sharing alike as the original does the idea of this side is to remix, transform, or build upon the original construction drawings provided. Thus, all of us have to distribute our contributions in this repository under the same lices as the original: [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/).
+An appetizer for the vehicles in action could be found [here](http://www.youtube.com/watch?v=CPaBOMBIfKA) and [here](https://youtu.be/3dgY7bEmk1Q). Furthermore there is a thread available on the German [velomobilforum.de](https://www.velomobilforum.de/forum/index.php?threads/eigenbau-xyz-spaceframe-vehicle.33109/).
 
-Following the idea it is obvious to use a open source tool as well: [FreeCAD](https://www.freecadweb.org).
-<br>FreeCAD is an open-source parametric 3D modeler made primarily to design real-life objects of any size.
+Sharing alike as the original does the idea of this Github repository is to remix, transform, or build upon the original construction drawings provided. Thus, all of us have to distribute our contributions in this repository under the same license as the original: [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/).
 
-Starting point of this repository was to get the original construction drawings transformed to FreeCAD and publish them in this repository. Doing so smaller mistakes in the original drawings should have been corrected. Thus, the now available construction manual is the first fork of the original drawing. You could use them to start your own DIY project of reproducing a XYZ ONESEATER! Standard bicycle parts like wheels and bottom bracket are not in focus so far and might be added later.
+Following the idea of open source it is obvious to use an open source tool as well: [FreeCAD](https://www.freecadweb.org). FreeCAD is an open-source parametric 3D modeler made primarily to design real-life objects of any size.
 
-If you have done any further improvements or changes please contribute them here in order to get further on the road of shared open source development.
+Starting point of this repository was to get the original construction drawings transformed to FreeCAD. 
 
-First potential fork might be the XYZ TWOSEATER which already had been introduced as THREESEATER [here](https://www.dropbox.com/s/jynk9lwfgj25o40/dreisitzer.avi). However, according to my knowledge FreeCAD drawings are still missing and could be added/developed here.
+This transformation procedure is based on the structure of the original construction plan, i.e. each single component is genrated in FreeCAD (see details in [FreeCAD workflow](link)). Subsequently the needed components are used in assembleys like frame and steering bridge resulting in the final vehicle. The resulting FreeCAD files (.FCStd-files) are published in this GitHub repository and represent the open source to generate technical drawings. It's obvious that slightly adjustments had been taken compared to the original plan. 
 
-The applied FreeCAD workflow is kept simple and similar to a [typical PartDesign workflow](https://www.freecadweb.org/wiki/Getting_started#Working_with_the_PartDesign_and_Sketcher_workbenches):
-<br>One real component is represented by one FreeCAD file. As square aluminium tubing is the main material for the ONESEATER the setup of the FreeCAD files starts most often with the characteristic cross-section of the component (e.g. 25x25x2mm square tubing). The Sketcher workbench inside the PartDesign workbench is used to draw the cross-section. The cross-section is subsequently extruded to a solid. Boreholes are drilled to the solid by using the Pocket tool of the PartDesign workbench.
-<br>Final assembly of appropiate components e.g. to a frame or stearing subassembley could be done by using the [A2plus](https://www.freecadweb.org/wiki/A2plus_Workbench) workbench. This is done mainly by adding circularEdge constraints between several components to get to subassembleys as well as constraints between several subassembleys to get to a final assembly respectively.
-<br>Screws, nuts and washers might be added in subassembleys or final assembly by using the [Fasteners](https://www.freecadweb.org/wiki/Fasteners_Workbench) workbench.
-<br>Technical drawings of components or any assembly could be easily generated by using the [TechDraw](https://www.freecadweb.org/wiki/TechDraw_Module) workbench.
+Thus, the both now available open source FreeCAD files as well as the resulting construction manual are the first fork of the original drawing. You could use them to start your own DIY project of reproducing a XYZ ONESEATER. If you have done any further improvements or changes please contribute them accordingly in order to get further on the road of shared open source development.
+
+Potential fork might be the XYZ TWOSEATER which already had been introduced as THREESEATER [here](https://www.dropbox.com/s/jynk9lwfgj25o40/dreisitzer.avi). However, it seems to be that FreeCAD drawings are still missing and could be added/developed/provided accordingly.
+
+Have fun!
