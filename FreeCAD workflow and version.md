@@ -6,7 +6,7 @@ One real component is represented by one FreeCAD file.
 
 As square aluminium tubing is the main material for the ONESEATER the setup of the FreeCAD files starts most often with the characteristic cross-section of the component (e.g. 25x25x2mm square tubing). The Sketcher workbench inside the PartDesign workbench is used to draw the cross-section. The cross-section is subsequently extruded to a solid. Boreholes are drilled to the solid by using the Pocket tool of the PartDesign workbench.
 
-Final assembly of appropiate components e.g. to a frame or stearing subassembley could be done by using the [A2plus](https://www.freecadweb.org/wiki/A2plus_Workbench) workbench. This is done mainly by adding circularEdge constraints between several components to get to subassembleys as well as constraints between several subassembleys to get to a final assembly respectively.
+Final assembly of appropiate components e.g. to a frame or stearing subassembly could be done by using the [A2plus](https://www.freecadweb.org/wiki/A2plus_Workbench) workbench. This is done mainly by adding circularEdge constraints between several components to get to sub-assemblys as well as constraints between several sub-assemblys to get to a final assembly respectively.
 
 Screws, nuts and washers might be added in subassembleys or final assembly by using the [Fasteners](https://www.freecadweb.org/wiki/Fasteners_Workbench) workbench.
 
