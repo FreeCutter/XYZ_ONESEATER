@@ -4,7 +4,7 @@
 
 The XYZ ONESEATER is a trike bicycle which frame and stearing components are mainly build out of 25mm square aluminium tubing. 
 
-This is the Github repository providing the sources of the project as FreeCad-files (.FCStd) as well as the resulting technical drawings summarized in the pdf-document [OneSeater_Techdrawings](link).
+This is the Github repository providing the sources of the project as FreeCad-files (.FCStd) as well as the resulting technical drawings summarized in the pdf-document [OneSeater_Techdrawings](https://github.com/FreeCutter/XYZ_ONESEATER/blob/master/OneSeater_TechDrawings.PDF).
 
 The original construction drawings for the XYZ ONESEATER might be downloaded [here](http://www.n55.dk/MANUALS/SPACEFRAMEVEHICLES/spaceframevehicles.html). Credits to [N55](http://www.n55.dk) and collaborator Till Wolfer.
 
