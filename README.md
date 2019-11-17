@@ -3,7 +3,7 @@
 ![](https://github.com/FreeCutter/XYZ_ONESEATER/blob/master/OneSeater_Assembley.png)
 [OneSeater_Assembley.stl](https://github.com/FreeCutter/XYZ_ONESEATER/blob/master/OneSeater_Assembley.stl)
 
-The XYZ ONESEATER is a trike bicycle which frame and stearing components are mainly build out of 25mm square aluminium tubing. 
+The XYZ ONESEATER is a trike bicycle which frame and steering components are mainly build out of 25mm square aluminium tubing. 
 
 This is the Github repository providing the sources of the project as FreeCad-files (.FCStd) as well as the resulting technical drawings summarized in the pdf-document [OneSeater_Techdrawings](https://github.com/FreeCutter/XYZ_ONESEATER/blob/master/OneSeater_TechDrawings.pdf).
 
@@ -17,7 +17,7 @@ Following the idea of open source it is obvious to use an open source tool as we
 
 Starting point of this repository was to get the original construction drawings transformed to FreeCAD. 
 
-This transformation procedure is based on the structure of the original construction plan, i.e. each single component is generated in FreeCAD (see details in [FreeCAD workflow](https://github.com/FreeCutter/XYZ_ONESEATER/blob/master/FreeCAD%20workflow%20and%20version.md)). Subsequently the needed components are used in assembleys like frame and steering bridge resulting in the final vehicle. The resulting FreeCAD files (.FCStd-files) are published in this GitHub repository and represent the open source to generate technical drawings. It's obvious that slightly adjustments had been taken compared to the original plan. 
+This transformation procedure is based on the structure of the original construction plan, i.e. each single component is generated in FreeCAD (see details in [FreeCAD workflow](https://github.com/FreeCutter/XYZ_ONESEATER/blob/master/FreeCAD%20workflow%20and%20version.md)). Subsequently the needed components are used in assemblys like frame and steering bridge resulting in the final vehicle. The resulting FreeCAD files (.FCStd-files) are published in this GitHub repository and represent the open source to generate technical drawings. It's obvious that slightly adjustments had been taken compared to the original plan. 
 
 Thus, the both now available open source FreeCAD files as well as the resulting construction manual are the first fork of the original drawing. You could use them to start your own DIY project of reproducing a XYZ ONESEATER. If you have done any further improvements or changes please contribute them accordingly in order to get further on the road of shared open source development.
 
