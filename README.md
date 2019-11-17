@@ -13,7 +13,7 @@ An appetizer for the vehicles in action could be found [here](http://www.youtube
 
 Sharing alike as the original does the idea of this Github repository is to remix, transform, or build upon the original construction drawings provided. Thus, all of us have to distribute our contributions in this repository under the same [license](https://github.com/FreeCutter/XYZ_ONESEATER/blob/master/License%20-%20Disclaimer%20-%20Contribution.md) as the original: [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/).
 
-Following the idea of open source it is obvious to use an open source tool as well: [FreeCAD](https://www.freecadweb.org). FreeCAD is an open-source parametric 3D modeler made primarily to design real-life objects of any size.
+Following the idea of open source it is obvious to use an open source tool as well: [FreeCAD](https://www.freecadweb.org). <br>FreeCAD is an open-source parametric 3D modeler made primarily to design real-life objects of any size.
 
 Starting point of this repository was to get the original construction drawings transformed to FreeCAD. 
 
