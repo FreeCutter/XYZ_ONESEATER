@@ -10,7 +10,7 @@ The original construction drawings for the XYZ ONESEATER might be downloaded [he
 
 An appetizer for the vehicles in action could be found [here](http://www.youtube.com/watch?v=CPaBOMBIfKA) and [here](https://youtu.be/3dgY7bEmk1Q). Furthermore there is a thread available on the German [velomobilforum.de](https://www.velomobilforum.de/forum/index.php?threads/eigenbau-xyz-spaceframe-vehicle.33109/).
 
-Sharing alike as the original does the idea of this Github repository is to remix, transform, or build upon the original construction drawings provided. Thus, all of us have to distribute our contributions in this repository under the same license as the original: [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/).
+Sharing alike as the original does the idea of this Github repository is to remix, transform, or build upon the original construction drawings provided. Thus, all of us have to distribute our contributions in this repository under the same [license](https://github.com/FreeCutter/XYZ_ONESEATER/blob/master/License%20-%20Disclaimer%20-%20Contribution.md) as the original: [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/).
 
 Following the idea of open source it is obvious to use an open source tool as well: [FreeCAD](https://www.freecadweb.org). FreeCAD is an open-source parametric 3D modeler made primarily to design real-life objects of any size.
 
