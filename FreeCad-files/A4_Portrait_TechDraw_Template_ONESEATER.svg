@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:freecad="http://www.freecadweb.org/wiki/index.php?title=Svg_Namespace"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   id="svg129"
+   sodipodi:docname="A4_Portrait_TechDraw_Template_ONESEATER.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata135">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs133" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
+     id="namedview131"
+     showgrid="false"
+     inkscape:zoom="3.5065762"
+     inkscape:cx="295.86363"
+     inkscape:cy="67.454231"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg129"
+     inkscape:document-units="mm" />
+  <g
+     id="titleblock-structure"
+     style="fill:none;stroke:#000000;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+     transform="translate(1.1999817,1.3000793)">
+    <rect
+       width="140"
+       height="34"
+       x="62.800018"
+       y="255.69992"
+       id="rect5"
+       style="stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       d="M 63,264 H 203"
+       id="path7"
+       inkscape:connector-curvature="0"
+       style="stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none" />
+    <!-- upper horizontal Separator Titleblock -->
+    <path
+       d="m 63,282 h 87"
+       id="path9"
+       inkscape:connector-curvature="0"
+       style="stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none" />
+    <!-- lower horizontal Separator Document-Type -->
+    <path
+       d="M 63,286 H 203"
+       id="path11"
+       inkscape:connector-curvature="0"
+       style="stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none" />
+    <!-- lower horizontal Separator Copyright -->
+    <path
+       d="m 96.431613,256 v 8"
+       id="path13"
+       inkscape:connector-curvature="0"
+       style="stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none" />
+    <!-- Separator Author / Owner -->
+    <path
+       d="m 150,256 v 30"
+       id="path15"
+       inkscape:connector-curvature="0"
+       style="stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none" />
+    <!-- Separator Title / Liste RH -->
+    <path
+       d="m 180,256 v 8"
+       id="path17"
+       inkscape:connector-curvature="0"
+       style="stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none" />
+    <!-- Separator Scale / Sheet -->
+    <path
+       d="m 150,272 h 53"
+       id="path19"
+       inkscape:connector-curvature="0"
+       style="stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none" />
+    <!-- Separator Part / Drawing-Nr -->
+    <path
+       d="m 150,278 h 53"
+       id="path21"
+       inkscape:connector-curvature="0"
+       style="stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none" />
+    <!-- Separator DRW-Info / Revision -->
+    <path
+       d="m 180,278 v 8"
+       id="path23"
+       inkscape:connector-curvature="0"
+       style="stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none" />
+    <!-- Separator Date / Revision -->
+  </g>
+  <g
+     id="titleblock-text-non-editable"
+     style="font-size:3px;font-family:tahoma;text-anchor:start;fill:#000000"
+     xml:space="preserve"
+     transform="translate(0.5,1.1)"><text
+   x="64"
+   y="259"
+   id="text26">Author:</text>
+
+<text
+   x="64"
+   y="263"
+   id="text28">Community:</text>
+
+<text
+   x="102.36234"
+   y="259.33841"
+   id="text30">License: Open Source</text>
+
+<text
+   x="64"
+   y="268"
+   id="text32">XYZ_ONESEATER:          Credits: www.n55.dk, Till Wolfer</text>
+
+<text
+   x="64"
+   y="285"
+   id="text34">Document type:</text>
+
+<text
+   x="181.66214"
+   y="259.11148"
+   id="text36">Sheet:</text>
+
+<text
+   x="181.66214"
+   y="263"
+   id="text38">Size:</text>
+
+<text
+   x="151.74042"
+   y="259.11148"
+   id="text40">Scale:</text>
+
+<text
+   x="151.74042"
+   y="263.11148"
+   id="text42">Toler.:</text>
+
+<text
+   x="151.74042"
+   y="267.22296"
+   id="text44">Part material:</text>
+
+<text
+   x="151.74042"
+   y="271.11148"
+   id="text46">Part number:</text>
+
+<text
+   x="151.74042"
+   y="276.11148"
+   id="text48">Drawing no.:</text>
+
+<text
+   x="151.74042"
+   y="281"
+   id="text50">Date:</text>
+
+<text
+   x="181.66214"
+   y="281.33447"
+   id="text52">Revision:</text>
+
+<text
+   style="font-size:2.99999976px;font-family:tahoma;text-anchor:start;fill:#000000;stroke-width:0.99999994"
+   x="64"
+   y="280.54099"
+   id="text32-3">Contribute: github.com/FreeCutter/XYZ_ONESEATER</text>
+
+<text
+   style="font-size:3.00000024px;font-family:tahoma;text-anchor:start;fill:#000000;stroke-width:1"
+   x="98.842514"
+   y="262.8468"
+   id="text30-3">provided under CC BY-NC-SA 3.0</text>
+
+<text
+   x="64"
+   y="289"
+   id="text121"><tspan
+     id="tspan119">Noncommercial - You may not use this work for commercial purposes.</tspan></text>
+
+</g>  <text
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99998689px;font-family:tahoma;-inkscape-font-specification:'tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:1.00403333"
+     id="text57"
+     y="261.25623"
+     x="75.675385"
+     freecad:editable="AUTHOR_NAME"
+     transform="scale(1.0040334,0.99598281)">
+    <tspan
+       id="tspan55"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99998689px;font-family:tahoma;-inkscape-font-specification:'tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.00403333">Username</tspan>
+  </text>
+  <text
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99998689px;font-family:tahoma;-inkscape-font-specification:'tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:1.00403333"
+     id="text61"
+     y="265.16068"
+     x="83.365753"
+     freecad:editable=""
+     transform="scale(1.0040334,0.99598281)">
+    <tspan
+       id="tspan59"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99998689px;font-family:tahoma;-inkscape-font-specification:'tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.00403333">Github</tspan>
+  </text>
+  <text
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777776px;font-family:tahoma;-inkscape-font-specification:'tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;fill:#000000;stroke-width:1.00403333;"
+     id="text69"
+     y="276.20398"
+     x="65.003281"
+     freecad:editable="TITLELINE-1"
+     transform="scale(1.0040334,0.99598281)">
+    <tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777776px;font-family:tahoma;-inkscape-font-specification:'tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;stroke-width:1.00403333;"
+       id="tspan67">Title of component</tspan>
+  </text>
+  <text
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99998689px;font-family:tahoma;-inkscape-font-specification:'tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:1.00403333"
+     id="text81"
+     y="287.36108"
+     x="90.219139"
+     freecad:editable="DOCUMENT_TYPE"
+     transform="scale(1.0040334,0.99598281)">
+    <tspan
+       id="tspan79"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99998689px;font-family:tahoma;-inkscape-font-specification:'tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.00403333">Mechanical assembly drawing</tspan>
+  </text>
+  <text
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99998689px;font-family:tahoma;-inkscape-font-specification:'tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:1.00403333"
+     id="text89"
+     y="261.25623"
+     x="161.33575"
+     freecad:editable="SCALE"
+     transform="scale(1.0040334,0.99598281)">
+    <tspan
+       id="tspan87"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99998689px;font-family:tahoma;-inkscape-font-specification:'tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.00403333">M x:x</tspan>
+  </text>
+  <text
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99998689px;font-family:tahoma;-inkscape-font-specification:'tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:1.00403333"
+     id="text93"
+     y="265.27234"
+     x="161.27992"
+     freecad:editable="TOLERANCE"
+     transform="scale(1.0040334,0.99598281)">
+    <tspan
+       id="tspan91"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99998689px;font-family:tahoma;-inkscape-font-specification:'tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.00403333">+/- ?</tspan>
+  </text>
+  <text
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99998689px;font-family:tahoma;-inkscape-font-specification:'tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:1.00403333"
+     id="text97"
+     y="269.40018"
+     x="172.03322"
+     freecad:editable="PM"
+     transform="scale(1.0040334,0.99598281)">
+    <tspan
+       id="tspan95"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99998689px;font-family:tahoma;-inkscape-font-specification:'tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.00403333">PM</tspan>
+  </text>
+  <text
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99998689px;font-family:tahoma;-inkscape-font-specification:'tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:1.00403333"
+     id="text101"
+     y="273.30463"
+     x="171.92241"
+     freecad:editable="PN"
+     transform="scale(1.0040334,0.99598281)">
+    <tspan
+       id="tspan99"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99998689px;font-family:tahoma;-inkscape-font-specification:'tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.00403333">PN</tspan>
+  </text>
+  <text
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99998689px;font-family:tahoma;-inkscape-font-specification:'tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:1.00403333"
+     id="text105"
+     y="278.32477"
+     x="171.97783"
+     freecad:editable="DN"
+     transform="scale(1.0040334,0.99598281)">
+    <tspan
+       id="tspan103"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99998689px;font-family:tahoma;-inkscape-font-specification:'tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.00403333">DN</tspan>
+  </text>
+  <text
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99998689px;font-family:tahoma;-inkscape-font-specification:'tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:1.00403333"
+     id="text109"
+     y="287.36108"
+     x="152.35419"
+     freecad:editable="DATE"
+     transform="scale(1.0040334,0.99598281)">
+    <tspan
+       id="tspan107"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99998689px;font-family:tahoma;-inkscape-font-specification:'tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.00403333">YYYY-MM-DD</tspan>
+  </text>
+  <text
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99998689px;font-family:tahoma;-inkscape-font-specification:'tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:1.00403333"
+     id="text113"
+     y="287.36108"
+     x="182.47519"
+     freecad:editable="REVISION"
+     transform="scale(1.0040334,0.99598281)">
+    <tspan
+       id="tspan111"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99998689px;font-family:tahoma;-inkscape-font-specification:'tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.00403333">REV A</tspan>
+  </text>
+  <text
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99998689px;font-family:tahoma;-inkscape-font-specification:'tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:1.00403333"
+     id="text117"
+     y="265.27234"
+     x="190.50745"
+     freecad:editable="SIZE"
+     transform="scale(1.0040334,0.99598281)">
+    <tspan
+       id="tspan115"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99998689px;font-family:tahoma;-inkscape-font-specification:'tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.00403333">A4</tspan>
+  </text>
+  <text
+     id="text85-3"
+     y="261.31607"
+     x="191.31992"
+     freecad:editable="SHEET"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99998689px;font-family:tahoma;-inkscape-font-specification:'tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:1.00403333"
+     transform="scale(1.0040334,0.99598281)">
+    <tspan
+       id="tspan83-6"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99998689px;font-family:tahoma;-inkscape-font-specification:'tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.00403333">1 of 1</tspan>
+  </text>
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:0.35089961;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect5160"
+     width="198"
+     height="285"
+     x="6"
+     y="6" />
+  <g
+     style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.34999999"
+     id="freecad-logo"
+     transform="translate(52.802483,280.3943)">
+    <path
+       inkscape:connector-curvature="0"
+       d="m 0.1524,0.15254 v 8.8549 h 1.9744 v -3.4652 h 1.396 v -1.3661 h -1.396 v -1.4745 h 3.4391 v -2.5441 z"
+       id="path184" />
+    <path
+       inkscape:connector-curvature="0"
+       d="M 7.7927,3.4504 7.28555,3.2744 6.80168,2.0378 6.04053,2.0778 5.69335,3.3565 5.20745,3.58919 3.99555,3.05904 3.48367,3.62786 4.14259,4.77636 3.96253,5.28203 2.72593,5.7659 l 0.044064,0.76263 1.2787,0.34718 0.23269,0.4859 -0.53421,1.2104 0.56882,0.51188 1.1485,-0.65891 0.50973,0.18155 0.4798,1.2351 0.7667,-0.04258 0.34311,-1.2802 0.4859,-0.23269 1.2145,0.5357 0.51188,-0.56882 -0.65891,-1.1485 0.17748,-0.51122 1.2351,-0.4798 L 10.491274,5.34831 9.211074,5.0052 8.978384,4.5193 9.510014,3.3033 8.941204,2.79146 Z M 7.2212,4.6748 7.45696,4.81159 7.66122,4.99678 7.82475,5.21779 7.94238,5.46351 8.01154,5.7284 8.023,5.99986 7.98379,6.27125 7.89431,6.52889 7.75197,6.76723 7.57233,6.9689 7.35132,7.13243 7.1056,7.25006 6.84071,7.31922 6.56776,7.33475 l -0.2719,-0.04 -0.2576,-0.089 -0.2383,-0.143 -0.2002,-0.183 -0.165,-0.217 -0.1177,-0.246 -0.0676,-0.269 -0.0156,-0.273 L 5.273066,5.60335 5.36255,5.34571 5.5034,5.11144 5.68453,4.9057 5.90554,4.74218 6.15126,4.62455 6.42021,4.55687 6.69168,4.54541 6.96307,4.58462 7.22071,4.6741 Z"
+       id="path186" />
+  </g>
+</svg>
