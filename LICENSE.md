@@ -4,6 +4,3 @@ construction principle used in the system and the XYZ construction and connectio
 
 ### DISCLAIMER
 Although every precaution has been taken in the preparation of these plans, copyright holders and contributors assume no responsibility for errors and omissions. Nor is any liability assumed for damages resulting from the information contained herein.
-
-### CONTRIBUTION
-Corrections/changes/additions may be submitted as a pull request at Github: https://github.com/FreeCutter/XYZ_ONESEATER.

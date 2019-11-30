@@ -25,4 +25,4 @@ FreeCad had been used in the version of:
    - Coin version: 4.0.0a
    - OCC version: 7.3.0
 
-However, deviating therefrom FreeCad 0.19 DailyBuild had been used to generate "ballon" annotations in some overview drawings.
+However, deviating therefrom FreeCad 0.19 DailyBuild had been used to generate "baloon" annotations in some overview drawings.
