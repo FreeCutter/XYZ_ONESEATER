@@ -15,12 +15,18 @@ Improvements and changes regard to:
 * Seat: splitting the seat into two parts: a more confortable back rest and a plane plate
 * Back wheel: Dropout and suspension by an elastomer
 
-
-
 As I could not fork my own repository a branche is used to split the mentioned improvements from the master.
 
 I apologize that no content is yet available. FCStd-files as well as pdf-drawings hopefully coming soon.
 Purpose of this Readme.md so far is to structure the developed improvements.
+
+These changes and developements had already been published here:
+
+* [Introduction](https://www.velomobilforum.de/forum/index.php?threads/eigenbau-xyz-spaceframe-vehicle.33109/page-14#post-647225)
+* [Concept idea to realise a kingpin](https://www.velomobilforum.de/forum/index.php?threads/eigenbau-xyz-spaceframe-vehicle.33109/page-14#post-646791)
+* [Further improvements](https://www.velomobilforum.de/forum/index.php?threads/eigenbau-xyz-spaceframe-vehicle.33109/page-23)
+
+However, the sources as FCStd-files and resulting pdf-Techdrawings still need to be generated.
 
 ### DISCLAIMER
 Although every precaution has been taken in the preparation of these plans, copyright holders and contributors assume no responsibility for errors and omissions. Nor is any liability assumed for damages resulting from the information contained herein.
