@@ -2,6 +2,9 @@
 
 The XYZ ONESEATER is a trike bicycle, which frame and steering components are mainly built out of 25mm square aluminum tubing.
 
+
+![OneSeater_Picture_Overview](/Pictures/Oneseater_pictures_overview.jpg)
+
 ## About
 
 This branche provides improvements of the master sources of this project.
@@ -11,6 +14,8 @@ Improvements and changes regard to:
 * Steering component: introducing kingpin (roll radius) as well as more caster. The steering operation changed to 'skid steering' or 'tank steering'. 
 * Seat: splitting the seat into two parts: a more confortable back rest and a plane plate
 * Back wheel: Dropout and suspension by an elastomer
+
+
 
 As I could not fork my own repository a branche is used to split the mentioned improvements from the master.
 
