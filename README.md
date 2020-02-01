@@ -24,7 +24,7 @@ These changes and developements had already been published here:
 
 * [Introduction](https://www.velomobilforum.de/forum/index.php?threads/eigenbau-xyz-spaceframe-vehicle.33109/page-14#post-647225)
 * [Concept idea to realise a kingpin](https://www.velomobilforum.de/forum/index.php?threads/eigenbau-xyz-spaceframe-vehicle.33109/page-14#post-646791)
-* [Further improvements](https://www.velomobilforum.de/forum/index.php?threads/eigenbau-xyz-spaceframe-vehicle.33109/page-23)
+* [Further improvements](https://www.velomobilforum.de/forum/index.php?threads/eigenbau-xyz-spaceframe-vehicle.33109/page-23#post-793471)
 
 However, the sources as FCStd-files and resulting pdf-Techdrawings still need to be generated.
 
