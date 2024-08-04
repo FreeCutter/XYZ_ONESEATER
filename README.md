@@ -42,6 +42,6 @@ A potential fork might be the XYZ TWOSEATER which already had been introduced as
 
 ### License
 
-Sharing alike as the original does the idea of this Github repository is to remix, transform, or build upon the original construction drawings provided. Thus, all of us have to distribute our contributions in this repository under the same [license](LICENSE.md) as the original: [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/).
+Sharing alike as the original does the idea of this Github repository is to remix, transform, or build upon the original construction drawings provided. Thus, all of us have to distribute our contributions in this repository under the same [license](LICENSE.md) as the original: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 Have fun!
